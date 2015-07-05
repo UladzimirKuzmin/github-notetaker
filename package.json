@@ -16,6 +16,7 @@
     "url": "https://github.com/w3chtmler/github-notetaker/issues"
   },
   "dependencies": {
+    "axios": "^0.5.4",
     "babel-core": "^5.6.15",
     "firebase": "^2.2.7",
     "node-libs-browser": "^0.5.2",
