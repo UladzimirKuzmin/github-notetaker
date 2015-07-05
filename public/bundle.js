@@ -23607,8 +23607,8 @@
 	var React = __webpack_require__(1);
 	var Router = __webpack_require__(157);
 
-	var SearchGihub = React.createClass({
-		displayName: 'SearchGihub',
+	var SearchGithub = React.createClass({
+		displayName: 'SearchGithub',
 
 		mixins: [Router.Navigation],
 		handleSubmit: function handleSubmit() {
@@ -23642,7 +23642,7 @@
 		}
 	});
 
-	module.exports = SearchGihub;
+	module.exports = SearchGithub;
 
 /***/ },
 /* 199 */

@@ -1,7 +1,7 @@
 var React = require('react');
 var Router = require('react-router');
 
-var SearchGihub = React.createClass({
+var SearchGithub = React.createClass({
 	mixins: [Router.Navigation],
 	handleSubmit: function() {
 		var username = this.refs.username.getDOMNode().value;
@@ -24,4 +24,4 @@ var SearchGihub = React.createClass({
 	}
 });
 
-module.exports = SearchGihub;
+module.exports = SearchGithub;
