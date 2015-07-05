@@ -17,9 +17,11 @@
   },
   "dependencies": {
     "babel-core": "^5.6.15",
+    "firebase": "^2.2.7",
     "node-libs-browser": "^0.5.2",
     "react": "^0.13.3",
     "react-router": "^0.13.3",
+    "reactfire": "^0.4.0",
     "webpack": "^1.10.1"
   },
   "devDependencies": {
